@@ -1,2 +1,2 @@
 # viva_lpu
-submit your viva project
+submit your viva project to sir
